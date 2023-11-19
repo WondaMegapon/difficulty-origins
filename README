@@ -1,0 +1,28 @@
+# Description
+
+Difficulty Origins is a mod that adds in a new origins layer for difficulty options. This will allow players on an SMP world to pick and choose how difficult they want the game to be.
+
+# Origins
+
+- Standard
+  - The default way of playing Minecraft.
+- Peaceful
+  - Most mobs will ignore you and you will keep items on death.
+- Easy
+  - You will keep items on death.
+- Inconvenient
+  - You cannot sleep or set a spawn point with a bed.
+- Hard
+  - You cannot regenerate health passively.
+- Difficult
+  - You cannot sleep nor passively regenerate health.
+- Impossible
+  - You have one heart, _and_ you can't sleep or regenerate health.
+
+(Both Difficult and Impossible provide a free Orb of Origin for frustrated players.)
+
+# Localization
+
+Difficulty Origins has localization for these languages:
+
+- toki pona
