@@ -1,0 +1,17 @@
+{
+  "type": "origins:attribute",
+  "modifiers": [
+    {
+      "name": "A human would have one heart. What about other origins?",
+      "attribute": "minecraft:generic.max_health",
+      "value": -18,
+      "operation": "addition"
+    }
+  ],
+  "badges": [
+    {
+      "type": "origins:sprite",
+      "sprite": "difficulty-origins:textures/gui/badges/ephemeral.png"
+    }
+  ]
+}

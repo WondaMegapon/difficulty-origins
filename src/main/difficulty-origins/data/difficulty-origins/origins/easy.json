@@ -1,0 +1,8 @@
+{
+  "powers": ["difficulty-origins:soulbound"],
+  "icon": {
+    "item": "minecraft:stone_pickaxe"
+  },
+  "impact": 1,
+  "order": 2
+}

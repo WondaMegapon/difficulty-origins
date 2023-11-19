@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "id": "difficulty-origins",
+  "version": "${version}",
+  "name": "Difficulty Origins",
+  "description": "An Origins add-on that adds several new difficulty options for players to chose from.",
+  "authors": ["Wonda"],
+  "contact": {
+    "homepage": "https://modrinth.com/mod/difficulty-origins",
+    "sources": "https://github.com/FabricMC/fabric-example-mod"
+  },
+  "license": "CC0-1.0",
+  "icon": "assets/difficulty-origins/icon.png",
+  "environment": "*",
+  "depends": {
+    "fabricloader": ">=0.14.24",
+    "minecraft": "~1.20.1",
+    "java": ">=17",
+    "fabric-api": "*",
+    "origins": ">=1.10.0",
+    "apugli": ">=2.7.0"
+  },
+  "suggests": {
+    "another-mod": "*"
+  }
+}

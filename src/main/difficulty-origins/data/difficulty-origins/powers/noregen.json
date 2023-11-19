@@ -1,0 +1,9 @@
+{
+  "type": "origins:disable_regen",
+  "badges": [
+    {
+      "type": "origins:sprite",
+      "sprite": "difficulty-origins:textures/gui/badges/noregen.png"
+    }
+  ]
+}

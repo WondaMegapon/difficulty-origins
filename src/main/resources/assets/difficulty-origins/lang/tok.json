@@ -1,0 +1,46 @@
+{
+  "layer.origins.difficulty-origins.name": "alasa",
+  "layer.origins.difficulty-origins.missing_name": "weka",
+  "layer.origins.difficulty-origins.missing_description": "sina jo e alasa.",
+
+  "origin.difficulty-origins.standard.name": "nasin",
+  "origin.difficulty-origins.standard.description": "sina wile ala e ante la o nasin e ni.",
+
+  "origin.difficulty-origins.peaceful.name": "suwi",
+  "origin.difficulty-origins.peaceful.description": "sina wile e ma pona la o nasin e ni.",
+
+  "origin.difficulty-origins.easy.name": "pona",
+  "origin.difficulty-origins.easy.description": "sina wile e weka ala la o nasin e ni.",
+
+  "origin.difficulty-origins.inconvenient.name": "alasa lili",
+  "origin.difficulty-origins.inconvenient.description": "sina wile e mun la o nasin e ni.",
+
+  "origin.difficulty-origins.hard.name": "alasa",
+  "origin.difficulty-origins.hard.description": "sina wile e moku wawa la o nasin e ni.",
+
+  "origin.difficulty-origins.difficult.name": "alasa suli",
+  "origin.difficulty-origins.difficult.description": "sina wile e ike la o nasin e ni.",
+
+  "origin.difficulty-origins.impossible.name": "pakala",
+  "origin.difficulty-origins.impossible.description": "sina wile e ale ike la o nasin e ni.",
+
+  "power.difficulty-origins.mobinvisibility.name": "kon pona",
+  "power.difficulty-origins.mobinvisibility.description": "jan ike li lukin ala e sina.",
+
+  "power.difficulty-origins.soulbound.name": "ijo awen",
+  "power.difficulty-origins.soulbound.description": "sina moli la ijo ale li awen sina.",
+
+  "power.difficulty-origins.insomnia.name": "lape ala",
+  "power.difficulty-origins.insomnia.description": "sina lape ala. sina tomo ala.",
+  "power.difficulty-origins.insomnia.message": "sijelo sina li pini. sina lape ala.",
+
+  "power.difficulty-origins.noregen.name": "insa pakala",
+  "power.difficulty-origins.noregen.description": "moku mute li pali ala tawa sina.",
+
+  "power.difficulty-origins.reconsider.name": "o ante",
+  "power.difficulty-origins.reconsider.description": "sina jo e sike ante. sina lawa e nasin pakala.",
+  "power.difficulty-origins.reconsider.orb.name": "sike ante",
+
+  "power.difficulty-origins.oneheart.name": "selo kon",
+  "power.difficulty-origins.oneheart.description": "sijelo sina li lili. o pakala ala."
+}

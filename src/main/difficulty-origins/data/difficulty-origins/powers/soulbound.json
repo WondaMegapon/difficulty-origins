@@ -1,0 +1,9 @@
+{
+  "type": "origins:keep_inventory",
+  "badges": [
+    {
+      "type": "origins:sprite",
+      "sprite": "difficulty-origins:textures/gui/badges/soulbound.png"
+    }
+  ]
+}

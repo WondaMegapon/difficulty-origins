@@ -1,0 +1,12 @@
+{
+  "type": "origins:prevent_sleep",
+  "set_spawn_point": false,
+  "priority": 1,
+  "message": "power.difficulty-origins.insomnia.message",
+  "badges": [
+    {
+      "type": "origins:sprite",
+      "sprite": "difficulty-origins:textures/gui/badges/insomnia.png"
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "type": "apugli:mobs_ignore",
+  "badges": [
+    {
+      "type": "origins:sprite",
+      "sprite": "difficulty-origins:textures/gui/badges/mobaura.png"
+    }
+  ]
+}

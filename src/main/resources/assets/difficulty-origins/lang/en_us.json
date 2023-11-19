@@ -1,0 +1,46 @@
+{
+  "layer.origins.difficulty-origins.name": "Difficulty",
+  "layer.origins.difficulty-origins.missing_name": "None",
+  "layer.origins.difficulty-origins.missing_description": "You currently don't have a difficulty selected.",
+
+  "origin.difficulty-origins.standard.name": "Standard",
+  "origin.difficulty-origins.standard.description": "For those who love the world as is.",
+
+  "origin.difficulty-origins.peaceful.name": "Peaceful",
+  "origin.difficulty-origins.peaceful.description": "For those who wish to live peacefully.",
+
+  "origin.difficulty-origins.easy.name": "Easy",
+  "origin.difficulty-origins.easy.description": "For those who don't want to lose everything.",
+
+  "origin.difficulty-origins.inconvenient.name": "Inconvenient",
+  "origin.difficulty-origins.inconvenient.description": "For those who don't fear the night.",
+
+  "origin.difficulty-origins.hard.name": "Hard",
+  "origin.difficulty-origins.hard.description": "For those who want an ultra experience.",
+
+  "origin.difficulty-origins.difficult.name": "Difficult",
+  "origin.difficulty-origins.difficult.description": "For those who want to walk up the hill both ways.",
+
+  "origin.difficulty-origins.impossible.name": "Impossible",
+  "origin.difficulty-origins.impossible.description": "For those who want to live in constant terror.",
+
+  "power.difficulty-origins.mobinvisibility.name": "Peaceful Aura",
+  "power.difficulty-origins.mobinvisibility.description": "Hostile mobs ignore you.",
+
+  "power.difficulty-origins.soulbound.name": "Soulbound",
+  "power.difficulty-origins.soulbound.description": "All items are kept on death.",
+
+  "power.difficulty-origins.insomnia.name": "Insomnia",
+  "power.difficulty-origins.insomnia.description": "You cannot sleep nor set your respawn point.",
+  "power.difficulty-origins.insomnia.message": "Your body seizes up. You can't sleep.",
+
+  "power.difficulty-origins.noregen.name": "Indigestion",
+  "power.difficulty-origins.noregen.description": "Being full no longer heals you.",
+
+  "power.difficulty-origins.reconsider.name": "Reconsider",
+  "power.difficulty-origins.reconsider.description": "You start with an orb of origin. You may have made a bad decision.",
+  "power.difficulty-origins.reconsider.orb.name": "Please Reconsider",
+
+  "power.difficulty-origins.oneheart.name": "Ephemeral",
+  "power.difficulty-origins.oneheart.description": "You have only one heart. Make it count."
+}

@@ -1,0 +1,8 @@
+{
+  "powers": ["difficulty-origins:insomnia"],
+  "icon": {
+    "item": "minecraft:iron_pickaxe"
+  },
+  "impact": 2,
+  "order": 3
+}

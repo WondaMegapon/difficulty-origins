@@ -1,0 +1,11 @@
+{
+  "powers": [
+    "difficulty-origins:soulbound",
+    "difficulty-origins:mobinvisibility"
+  ],
+  "icon": {
+    "item": "minecraft:wooden_pickaxe"
+  },
+  "impact": 1,
+  "order": 1
+}

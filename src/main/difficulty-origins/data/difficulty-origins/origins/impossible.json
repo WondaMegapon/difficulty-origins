@@ -1,0 +1,13 @@
+{
+  "powers": [
+    "difficulty-origins:oneheart",
+    "difficulty-origins:insomnia",
+    "difficulty-origins:noregen",
+    "difficulty-origins:reconsider"
+  ],
+  "icon": {
+    "item": "minecraft:wither_skeleton_skull"
+  },
+  "impact": 3,
+  "order": 6
+}

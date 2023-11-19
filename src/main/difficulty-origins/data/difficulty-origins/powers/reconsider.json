@@ -1,0 +1,22 @@
+{
+  "type": "origins:starting_equipment",
+  "stacks": [
+    {
+      "item": "origins:orb_of_origin",
+      "amount": 1,
+      "slot": 8,
+      "tag": {
+        "Targets": [{ "Layer": "origins:difficulty-origins" }],
+        "display": {
+          "Name": "{\"translate\": \"power.difficulty-origins.reconsider.orb.name\"}"
+        }
+      }
+    }
+  ],
+  "badges": [
+    {
+      "type": "origins:sprite",
+      "sprite": "difficulty-origins:textures/gui/badges/reconsider.png"
+    }
+  ]
+}

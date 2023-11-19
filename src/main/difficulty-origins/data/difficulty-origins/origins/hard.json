@@ -1,0 +1,8 @@
+{
+  "powers": ["difficulty-origins:noregen"],
+  "icon": {
+    "item": "minecraft:diamond_pickaxe"
+  },
+  "impact": 2,
+  "order": 4
+}

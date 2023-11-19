@@ -1,0 +1,12 @@
+{
+  "powers": [
+    "difficulty-origins:insomnia",
+    "difficulty-origins:noregen",
+    "difficulty-origins:reconsider"
+  ],
+  "icon": {
+    "item": "minecraft:netherite_pickaxe"
+  },
+  "impact": 2,
+  "order": 5
+}

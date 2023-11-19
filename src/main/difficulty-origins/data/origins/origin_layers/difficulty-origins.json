@@ -1,0 +1,12 @@
+{
+  "order": 0,
+  "origins": [
+    "difficulty-origins:peaceful",
+    "difficulty-origins:easy",
+    "difficulty-origins:standard",
+    "difficulty-origins:inconvenient",
+    "difficulty-origins:hard",
+    "difficulty-origins:difficult",
+    "difficulty-origins:impossible"
+  ]
+}
